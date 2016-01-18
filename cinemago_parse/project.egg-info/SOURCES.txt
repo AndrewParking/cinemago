@@ -1,0 +1,13 @@
+setup.py
+cinemago_parse/__init__.py
+cinemago_parse/items.py
+cinemago_parse/models.py
+cinemago_parse/pipelines.py
+cinemago_parse/settings.py
+cinemago_parse/spiders/__init__.py
+cinemago_parse/spiders/tutby_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
